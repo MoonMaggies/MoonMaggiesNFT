@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x5A38eF4A28fC98D04cbd7f4400aAf1FC192fB403",
+  "SCAN_LINK": "https://etherscan.io/address/0x5A38eF4A28fC98D04cbd7f4400aAf1FC192fB403",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1,
+    "HEX_ID":"0x1" 
+  },
+  "NFT_NAME": "Moon Maggies",
+  "SYMBOL": "MAGGIE",
+  "MAX_SUPPLY": 4000,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/moon-maggies",
+  "SHOW_BACKGROUND": true
+}
